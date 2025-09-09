@@ -10,7 +10,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/your-username/your-repo.git  # Replace with your actual Git repository URL
+    repoURL: https://github.com/surajsolanki724/n8n_gitops.git # Replace with your actual Git repository URL
     targetRevision: HEAD
     path: gitops/n8n_gitops  # Path to the directory containing the nginx manifests
   destination:
