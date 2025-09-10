@@ -4,7 +4,7 @@ kind: Kustomization
 resources:
   - ./resources
 
-labels:
+commonLabels:
   app: nginx
   managed-by: argocd
 
